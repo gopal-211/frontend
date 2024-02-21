@@ -87,7 +87,7 @@ useEffect(() => {
                 }
     </div>
     <div
-     className=' text-center text-2xl mt-3'>
+     className=' text-center text-2xl mt-3 sm:hidden'>
     <Link to={'/portfolio'} exact activeClassName="active" className="text-white " >
     Check Your <span className='text-blue-500'>Portfolio</span> value
     </Link>
